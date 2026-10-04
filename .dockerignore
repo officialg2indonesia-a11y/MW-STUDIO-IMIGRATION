@@ -1,0 +1,6 @@
+node_modules
+.git
+.env
+bridge/.env
+bridge/uploads
+bridge/data/accounts.json
